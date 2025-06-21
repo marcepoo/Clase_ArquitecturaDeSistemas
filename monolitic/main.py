@@ -1,7 +1,3 @@
-'''
-Este archivo se crea con la finalidad de
-'''
-
 import json
 import os
 
